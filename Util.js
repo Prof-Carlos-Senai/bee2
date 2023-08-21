@@ -96,4 +96,10 @@ class Teste{
 
 }
 
+class Teste2 {
+
+}
+
+// incluída uma nova classe
+
 // teste de mudança
